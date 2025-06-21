@@ -1,1 +1,13 @@
+# Item Names
 item.ItemTable.name=Estrogen
+item.emeraldPickaxe.name=Emerald Pickaxe
+item.emeraldAxe.name=Emerald Axe
+item.emeraldShovel.name=Emerald Shovel
+item.emeraldSword.name=Emerald Sword
+item.emeraldHoe.name=Emerald Hoe
+
+# Block Names
+tile.GamerBlock.name=Troll Block
+
+# Creative Tab
+itemGroup.tabsRandomGTNH=RandomGTNH

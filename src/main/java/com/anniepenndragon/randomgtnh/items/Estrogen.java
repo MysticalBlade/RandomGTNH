@@ -1,4 +1,4 @@
-package com.anniepenndragon.randomgtnh;
+package com.anniepenndragon.randomgtnh.items;
 
 import net.minecraft.item.Item;
 
